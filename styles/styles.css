@@ -1,11 +1,12 @@
 img {
-    width: 50%;
+    width: 10%;
+}
+
+a.button-default {
+    background-color: pink;
+    color: orange;
 }
 
 h1 {
     color: red;
-}
-
-body {
-    background-color: lightslategrey;
 }
